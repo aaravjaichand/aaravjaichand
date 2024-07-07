@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @aj4130
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning complex numbers and spirals
-- 😄 Pronouns: Him
+# About Me
+
+- 👋 Hi, I’m Aarav Jaichand
+- 👀 I’m interested in computer science, machine learning, artificial intelligence, and math. 
+- 🌱 I’m currently working on a [news article classifier](https://github.com/aaravjaichand/News-Article-Classifier) that uses deep learning techniques.
+- 😄 Pronouns: He/Him
 
 
 <!---
