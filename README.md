@@ -1,5 +1,7 @@
 # About Me
 
+![alt text](https://github.com/aaravjaichand/aaravjaichand/blob/main/logo.jpeg?raw=true)
+
 - 👋 Hi, I’m Aarav Jaichand
 - 👀 I’m interested in computer science, machine learning, artificial intelligence, and math. 
 - 🌱 I’m currently working on a [news article classifier](https://github.com/aaravjaichand/News-Article-Classifier) that uses deep learning techniques.
