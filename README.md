@@ -7,7 +7,6 @@
 - 👋 Hi, I’m Aarav Jaichand
 - 👀 I’m interested in computer science, machine learning, artificial intelligence, and math. 
 - 🌱 I’m currently working on a [news article classifier repo](https://github.com/aaravjaichand/News-Article-Classifier) where I have made and used differnt models. 
-- 😄 Pronouns: He/Him
 
 
 <!---
