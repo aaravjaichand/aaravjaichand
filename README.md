@@ -1,10 +1,12 @@
-# About Me
+# Aarav J's Profile
+![](https://komarev.com/ghpvc/?username=aaravjaichand&color=blue)
 
-![alt text](https://github.com/aaravjaichand/aaravjaichand/blob/main/logo.jpeg?raw=true)
+![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=cobalt)
+
 
 - 👋 Hi, I’m Aarav Jaichand
 - 👀 I’m interested in computer science, machine learning, artificial intelligence, and math. 
-- 🌱 I’m currently working on a [news article classifier](https://github.com/aaravjaichand/News-Article-Classifier) that uses deep learning techniques.
+- 🌱 I’m currently working on a [news article classifier repo](https://github.com/aaravjaichand/News-Article-Classifier) where I have made and used differnt models. 
 - 😄 Pronouns: He/Him
 
 
