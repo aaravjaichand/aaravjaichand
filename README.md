@@ -1,9 +1,9 @@
 # Aarav J's Profile
 ![](https://komarev.com/ghpvc/?username=aaravjaichand&color=blue)
 
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=cobalt)
+![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=dark&border_radius=25)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&border_radius=50&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&border_radius=25&theme=dark)](https://git.io/streak-stats)
 
 
 - 👋 Hi, I’m Aarav Jaichand
