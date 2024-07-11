@@ -3,6 +3,8 @@
 
 ![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=cobalt)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&border_radius=50&theme=radical)](https://git.io/streak-stats)
+
 
 - 👋 Hi, I’m Aarav Jaichand
 - 👀 I’m interested in computer science, machine learning, artificial intelligence, and math. 
