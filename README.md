@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Aarav Jaichand
 - 👀 I’m interested in computer science, machine learning, artificial intelligence, and math. 
-- 🌱 I’m currently working on a news article classifier project, check it out [here](https://github.com/aaravjaichand/News-Article-Classifier)
+- 🌱 I’m currently working on a [news article classifier project](https://github.com/aaravjaichand/News-Article-Classifier) and a [sentiment analysis project](https://github.com/aaravjaichand/SentimentAnalysis/tree/main)
 
 
 
