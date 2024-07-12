@@ -3,15 +3,11 @@
 ## Aarav's Bio
 
 
-Hello, I’m Aarav Jaichand
+Hello, I’m Aarav Jaichand'28
 
-Class of 2028
-
-
-- 🌱 I’m currently working on a [news article classifier project](https://github.com/aaravjaichand/News-Article-Classifier) and a [sentiment analysis project](https://github.com/aaravjaichand/SentimentAnalysis/tree/main)
+I’m currently working on two ML projects: a [news article classifier project](https://github.com/aaravjaichand/News-Article-Classifier) and a [sentiment analysis project](https://github.com/aaravjaichand/SentimentAnalysis/tree/main). 
 
 ## Aarav's Stats
-
 
 ![](https://komarev.com/ghpvc/?username=aaravjaichand&color=blue)
 
