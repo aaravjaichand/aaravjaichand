@@ -7,7 +7,7 @@ Hello, I’m Aarav Jaichand'28
 
 I’m currently working on two ML projects: a [news article classifier project](https://github.com/aaravjaichand/News-Article-Classifier) and a [sentiment analysis project](https://github.com/aaravjaichand/SentimentAnalysis/tree/main). 
 
-## Aarav's Stats
+## Aarav's GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=aaravjaichand&color=blue)
 
