@@ -15,6 +15,21 @@ I’m currently working on two ML projects: a [news article classifier project](
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&border_radius=25&theme=dark)](https://git.io/streak-stats)
 
+## Languages and Experience:
+
+Python
+
+Numpy
+
+JavaScript
+
+HTML
+
+CSS
+
+TypeScript
+
+React
 
 
 <!---
