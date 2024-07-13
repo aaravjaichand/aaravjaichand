@@ -1,4 +1,4 @@
-# Aarav J's Profile
+# Aarav's Profile
 
 ## Aarav's Bio
 
