@@ -3,7 +3,7 @@
 ## Aarav's Bio
 
 
-**Hi, my name is Aarav. **
+**Hi, my name is Aarav.**
 
 I’m currently working on two ML projects: a [news article classifier project](https://github.com/aaravjaichand/News-Article-Classifier) and a [sentiment analysis project](https://github.com/aaravjaichand/SentimentAnalysis/tree/main). 
 
