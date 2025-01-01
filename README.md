@@ -2,6 +2,8 @@
 
 ## Aarav's Bio
 
+Check out my [website](https://aaravjaichand.github.io/enhanced_index.html)!
+
 
 **Hi, my name is Aarav.**
 
