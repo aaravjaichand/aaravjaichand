@@ -7,7 +7,7 @@ Check out my [website](https://aaravjaichand.github.io/enhanced_index.html)!
 
 **Hi, my name is Aarav.**
 
-I’m currently working on two ML projects: a [news article classifier project](https://github.com/aaravjaichand/News-Article-Classifier) and a [sentiment analysis project](https://github.com/aaravjaichand/SentimentAnalysis/tree/main). 
+Building [Calcumo](https://calcumo.app/home.html)
 
 ## Aarav's GitHub Stats
 
