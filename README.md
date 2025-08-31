@@ -4,9 +4,6 @@
 
 Check out my [website](https://aaravjaichand.github.io/enhanced_index.html)!
 
-
-**Hi, my name is Aarav.**
-
 Building [Calcumo](https://calcumo.app/home.html)
 
 ## Aarav's GitHub Stats
