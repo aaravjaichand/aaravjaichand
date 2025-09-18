@@ -10,8 +10,6 @@ Building [Calcumo](https://calcumo.app/home.html)
 
 ![](https://komarev.com/ghpvc/?username=aaravjaichand&color=blue)
 
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=dark&border_radius=25)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&border_radius=25&theme=dark)](https://git.io/streak-stats)
 
 ## Coding Experience:
