@@ -2,7 +2,7 @@
 
 # Hello there, I'm Aarav Jaichand
 
-### Passionate developer building in the AI x EdTech space
+### Passionate developer building within the AI x EdTech space
 
 [![Website](https://img.shields.io/badge/Portfolio-aaravjaichand.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aaravjaichand.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-jaichand-b3787b340/)
