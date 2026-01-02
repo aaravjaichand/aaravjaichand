@@ -1,23 +1,145 @@
-# Aarav's Profile
+<div align="center">
 
-## Aarav's Bio
+# Hey there, I'm Aarav Jaichand
 
-Check out my [website](https://aaravjaichand.com)
+### Passionate developer building in the AI x EdTech space
 
+[![Website](https://img.shields.io/badge/Portfolio-aaravjaichand.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aaravjaichand.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-jaichand-b3787b340/)
+[![Profile Views](https://komarev.com/ghpvc/?username=aaravjaichand&color=blueviolet&style=for-the-badge)](https://github.com/aaravjaichand)
 
-## Aarav's GitHub Stats
+</div>
 
-![](https://komarev.com/ghpvc/?username=aaravjaichand&color=blue)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&border_radius=25&theme=dark)](https://git.io/streak-stats)
+## About Me
 
-## Coding Experience:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm a developer focused on creating AI-powered tools that make education more accessible and effective. I love building products that solve real problems for students and teachers alike.
 
+---
 
-## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aarav-jaichand-b3787b340/)
+## Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
+### CheckMate
+**MLH Hackathon Winner**
 
+An AI-powered grading assistant revolutionizing how teachers evaluate student work.
+
+**Features:**
+- Single & batch grading with question-by-question analysis
+- Google Classroom integration
+- AI teaching assistant with RAG-enhanced context
+- Automated lesson plan generation
+- Comprehensive analytics dashboards
+- Gmail integration for student communication
+
+**Tech:** Next.js, Firebase, Google Gemini AI
+
+[![Live Demo](https://img.shields.io/badge/Live-trycheckmate.app-4CAF50?style=flat-square&logo=vercel)](https://trycheckmate.app)
+
+</td>
+<td width="50%">
+
+### Calcumo
+**300+ Users**
+
+A free AI-powered math learning platform helping students solve and understand problems.
+
+**Features:**
+- Integrated Desmos graphing calculator
+- AI math assistant with step-by-step solutions
+- Image/PDF upload for problem solving
+- Supports algebra, calculus, trigonometry & more
+
+**Tech:** Next.js, AI/ML
+
+[![Live Demo](https://img.shields.io/badge/Live-calcumo.app-2196F3?style=flat-square&logo=vercel)](https://www.calcumo.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### Cognivo
+**AI-Powered Tutoring Platform**
+
+An intelligent tutoring platform replacing traditional tutors with AI voice agents.
+
+**Features:**
+- Real-time voice calls with AI tutors
+- Collaborative multi-board whiteboard
+- Coding IDE with syntax highlighting (Python, JavaScript, HTML, CSS)
+- Personalized AI-generated homework
+- Session history & learning progress analytics
+
+**Tech:** Next.js, Firebase, ElevenLabs
+
+[![Live Demo](https://img.shields.io/badge/Live-cognivo.live-9C27B0?style=flat-square&logo=vercel)](https://cognivo.live/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,firebase,pytorch,tensorflow&theme=dark" />
+</p>
+
+<details>
+<summary><b>More Technologies</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&theme=tokyonight&border_radius=10&fire=DD2727)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravjaichand&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects, especially in the AI and EdTech space!
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaravj413@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-aaravjaichand.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aaravjaichand.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarav_Jaichand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-jaichand-b3787b340/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
