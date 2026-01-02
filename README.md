@@ -117,10 +117,10 @@ An intelligent tutoring platform replacing traditional tutors with AI voice agen
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aaravjaichand&theme=tokyonight&border_radius=10&fire=DD2727)](https://git.io/streak-stats)
+![GitHub Streak](streak-stats.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaravjaichand&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravjaichand&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats-jade-zeta-ipt7qno6by.vercel.app/api?username=aaravjaichand&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats-jade-zeta-ipt7qno6by.vercel.app/api/top-langs/?username=aaravjaichand&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
 
 </div>
 
