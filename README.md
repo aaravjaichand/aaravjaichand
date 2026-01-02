@@ -67,7 +67,7 @@ A free AI-powered math learning platform helping students solve and understand p
 ### Cognivo
 **AI-Powered Tutoring Platform**
 
-An intelligent tutoring platform replacing traditional tutors with AI voice agents.
+A tutoring platform aiming to replace traditional tutors with AI voice agents.
 
 **Features:**
 - Real-time voice calls with AI tutors
