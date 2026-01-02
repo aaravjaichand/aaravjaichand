@@ -2,9 +2,8 @@
 
 ## Aarav's Bio
 
-Check out my [website](https://aaravjaichand.com)!
+Check out my [website](https://aaravjaichand.com)
 
-Building [Calcumo](https://calcumo.app/home.html)
 
 ## Aarav's GitHub Stats
 
