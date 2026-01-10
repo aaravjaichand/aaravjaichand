@@ -112,15 +112,15 @@ A tutoring platform aiming to replace traditional tutors with AI voice agents.
 </details>
 
 ---
-
 ## GitHub Stats
 
-<div align="center">
+  <div align="center">
 
-<img src="https://github-readme-stats-jade-zeta-ipt7qno6by.vercel.app/api?username=aaravjaichand&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats-jade-zeta-ipt7qno6by.vercel.app/api?username=aaravjaichand&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=aaravjaichand&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
 
+  </div>
 
-</div>
 
 ---
 
