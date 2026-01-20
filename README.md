@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there, I'm Aarav Jaichand
+# Hello, I'm Aarav Jaichand
 
 ### Passionate developer building within the AI x EdTech space
 
