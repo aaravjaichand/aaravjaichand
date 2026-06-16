@@ -17,6 +17,8 @@ Building at the intersection of AI and EdTech
 
 I build AI-powered tools that make education more accessible and effective — products that solve real problems for students and teachers.
 
+SWE Intern at Frizzle (YC S25)
+
 <br>
 
 ## Featured Projects
