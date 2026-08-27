@@ -2,7 +2,7 @@
 
 # Aarav Jaichand
 
-SWE Intern @ Frizzle (YC S25) &nbsp;·&nbsp; 2x Hackathon Winner
+SWE @ Frizzle (YC S25) &nbsp;·&nbsp; 2x Hackathon Winner
 
 <br>
 
